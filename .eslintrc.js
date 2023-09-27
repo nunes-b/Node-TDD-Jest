@@ -9,6 +9,7 @@ module.exports = {
     {
       env: {
         node: true,
+        "jest/globals": true,
       },
       files: [".eslintrc.js", ".eslintrc.cjs"],
       parserOptions: {
