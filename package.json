@@ -25,6 +25,7 @@
     "arraybuffer.prototype.slice": "^1.0.2",
     "available-typed-arrays": "^1.0.5",
     "balanced-match": "^1.0.2",
+    "body-parser": "^1.20.2",
     "brace-expansion": "^1.1.11",
     "call-bind": "^1.0.2",
     "callsites": "^3.1.0",
