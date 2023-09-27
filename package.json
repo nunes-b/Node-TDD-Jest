@@ -178,8 +178,10 @@
     "yocto-queue": "^0.1.0"
   },
   "scripts": {
+    "start": "node src/server.js",
     "test": "jest",
-    "lint": "eslint src/** test/** --fix"
+    "lint": "eslint src/** test/** --fix",
+    "watch": "jest --watch"
   },
   "keywords": [],
   "author": "",
